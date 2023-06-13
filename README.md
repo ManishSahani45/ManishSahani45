@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManishSahani45
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learninh Data Analytics
+- 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Project Building
 - 📫 How to reach me ...
 
